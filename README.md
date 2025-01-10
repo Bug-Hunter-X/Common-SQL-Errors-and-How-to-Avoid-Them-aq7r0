@@ -1,0 +1,1 @@
+This repository contains examples of common SQL errors and their solutions.  The `bug.sql` file demonstrates the errors, while `bugSolution.sql` provides corrected versions.  The errors include using incorrect data types, improper NULL handling, misuse of aggregate functions, and SQL injection vulnerabilities.  Each error is explained and the solutions are clearly outlined.
